@@ -1,0 +1,8 @@
+{
+  // Cloudflare Workers config: serve this repo as a static site.
+  "name": "gca-projects",
+  "compatibility_date": "2026-07-01",
+  "assets": {
+    "directory": "."
+  }
+}
