@@ -209,7 +209,7 @@ a { color: inherit; }
   text-decoration: none;
   margin-right: auto;
 }
-.brand-mark { width: 31px; height: 30px; color: var(--silver); }
+.brand-mark { width: 38px; height: 28px; color: var(--silver); }
 .brand-word {
   font-family: var(--display);
   font-weight: 800;
@@ -704,7 +704,7 @@ a { color: inherit; }
   margin-bottom: 36px;
 }
 .footer-brand { display: flex; gap: 14px; align-items: center; }
-.footer-brand .brand-mark { width: 42px; height: 41px; }
+.footer-brand .brand-mark { width: 46px; height: 34px; }
 .footer-brand strong {
   display: block;
   font-family: var(--display);
